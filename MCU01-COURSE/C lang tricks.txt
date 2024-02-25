@@ -1,0 +1,1 @@
+memset, memcpy, bzero, split, strcpy, malloc, calloc, itoa, and atoi 

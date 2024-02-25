@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;blink/Core/Inc/toogle.h&apos;" deleteContents="false" description="Delete resource &apos;blink/Core/Inc/toogle.h&apos;" element1="/blink/Core/Inc/toogle.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706717225065"/>
+</session>

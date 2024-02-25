@@ -1,0 +1,10 @@
+18:44:32 **** Incremental Build of configuration Debug for project benchmark ****
+make -j8 all 
+arm-none-eabi-size   benchmark.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9064	     20	   1740	  10824	   2a48	benchmark.elf
+Finished building: default.size.stdout
+ 
+
+18:44:32 Build Finished. 0 errors, 0 warnings. (took 527ms)
+
